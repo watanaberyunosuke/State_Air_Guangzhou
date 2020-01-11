@@ -9,7 +9,7 @@ Original file is located at
 Import required model
 """
 
-!pip install feedparser
+# !pip install feedparser
 import feedparser
 
 """Interpret raw sources"""
